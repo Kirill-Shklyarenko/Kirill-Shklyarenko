@@ -1,11 +1,10 @@
-<h2>👋 Hello world, I'm Kirill Shklyarenko.</h2>
-- I am backend developer with 3+ years of experience in Python/Golang development.
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kirill-shklyarenko&label=Profile%20views&color=0e75b6&style=flat" alt="kirill-shklyarenko" /> </p>
+<h4 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&duration=1000&pause=1000&color=00C21A&center=true&multiline=true&width=635&height=100&lines=Hello+world!+I+am+Kirill+Shklyarenko.;Backend+developer+;with+3%2B+years+of+experience+in+development.)](https://git.io/typing-svg)
+</h4>
 
 
-
-
-<h2 align="left">Languages and Tools:</h2>
+<p align="left">My Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -21,9 +20,10 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 <img src="https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white" />
-
   
-<h2 align="left">Connect with me:</h2>
+</p>
+  
+<p align="left">Connect with me:</p>
 <a href="https://t.me/kirill_vladi94" target="_blank" rel="noreferrer">
   <img alt="Kirill's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" style="max-width: 100%;">
 </a>
@@ -34,11 +34,13 @@
   <img alt="kirillvladi94@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" style="max-width: 100%;">
 </a>
 
-<details> 
+<details>
   <summary>💻 My Github Trophies</summary>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=kirill-shklyarenko&title=Commits,Followers&theme=onedark&column=-1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </details> 
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kirill-shklyarenko&label=Profile%20views&color=0e75b6&style=flat" alt="kirill-shklyarenko" /> </p>
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance -->
