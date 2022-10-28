@@ -50,6 +50,8 @@
 :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/VasilyBroze/Telegram_Bot_Congradulator/issues/1) in [VasilyBroze/Telegram_Bot_Congradulator](https://github.com/VasilyBroze/Telegram_Bot_Congradulator)
+<!--END_SECTION:activity-->
 
 
 
