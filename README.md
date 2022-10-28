@@ -42,17 +42,14 @@
 ---
 
 <details>
-  <summary>:zap: Recent Activity</summary>
-
-<!--START_SECTION:activity-->
-</details> 
-
-
-<details>
   <summary>💻 My Github Trophies</summary>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=kirill-shklyarenko&title=Commits,Followers&theme=onedark&column=-1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </details> 
+
+:zap: Recent Activity
+
+<!--START_SECTION:activity-->
 
 
 
