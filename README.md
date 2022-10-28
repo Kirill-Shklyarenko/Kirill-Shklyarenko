@@ -47,12 +47,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kirill-shklyarenko&title=Commits,Followers&theme=onedark&column=-1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </details> 
 
-:zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/VasilyBroze/Telegram_Bot_Congradulator/issues/1) in [VasilyBroze/Telegram_Bot_Congradulator](https://github.com/VasilyBroze/Telegram_Bot_Congradulator)
-<!--END_SECTION:activity-->
-
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kirill-shklyarenko&label=Profile%20views&color=0e75b6&style=flat" alt="kirill-shklyarenko" /> </p>
