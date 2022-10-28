@@ -1,6 +1,6 @@
 <h4 align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&duration=1000&pause=1000&color=00C21A&center=true&multiline=true&width=635&height=120&lines=Hello+world!+I+am+Kirill+Shklyarenko.;Backend+developer+;with+3%2B+years+of+experience+in+development.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&duration=2000&pause=250&color=00C21A&center=true&multiline=true&width=635&height=120&lines=Hello+world!+I+am+backend+developer+;with+3%2B+years+of+experience+in+development.)](https://git.io/typing-svg)
 </h4>
 
 
