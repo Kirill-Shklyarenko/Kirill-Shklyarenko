@@ -1,9 +1,3 @@
-<h4 align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&duration=2000&pause=250&color=00C21A&center=true&multiline=true&width=635&height=120&lines=Hello+world!+I+am+backend+developer+;with+3%2B+years+of+experience+in+development.)](https://git.io/typing-svg)
-</h4>
-
-
 <p align="left">My Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
