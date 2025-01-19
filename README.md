@@ -22,7 +22,7 @@
   
 
 <p align="left">Connect with me:</p>
-<a href="https://t.me/kirill_vladi94" target="_blank" rel="noreferrer">
+<a href="https://t.me/kirill_vladii" target="_blank" rel="noreferrer">
   <img alt="Kirill's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/kirill-shklyarenko" target="_blank" rel="noreferrer">
